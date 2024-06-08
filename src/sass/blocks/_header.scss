@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    align-items: center;
+    &__logo {
+        position: absolute;
+        width: 35px;
+        left: 205px;
+        top: 31px;   
+    }
+    &__name {
+        color: rgb(255, 255, 255);
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 17px;
+        margin-right: 40px;
+    }
+    &__our {
+        color: rgb(255, 255, 255);
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 17px;
+        margin-right: 40px;
+    }
+    &__pleasure {
+        color: rgb(255, 255, 255);
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 17px;
+        margin-right: 40px;
+    }
+    
+    
+}

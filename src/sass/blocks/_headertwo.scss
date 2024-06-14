@@ -25,6 +25,10 @@
         font-weight: 400;
         line-height: 17px;
         margin-right: 40px;
+        a {
+            text-decoration: none;
+            color: rgb(255, 255, 255)
+        }
     }
     &__pleasure {
         color: rgb(255, 255, 255);
@@ -32,6 +36,10 @@
         font-weight: 400;
         line-height: 17px;
         margin-right: 40px;
+        a {
+            text-decoration: none;
+            color: rgb(255, 255, 255)
+        }
     }
     &__descr {
         color: rgb(255, 255, 255);
